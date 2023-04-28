@@ -1,4 +1,3 @@
-![Header](./moonpic.png)
 <body>
 <h1 align="center">Welcome (づ｡◕‿‿◕｡)づ</h1>
 
@@ -33,7 +32,7 @@
 <br>
 <h2 align="center">Contact me (MoonPic#6526) (>人<)</h2>
 <br>
-<p align="center"> <a href="https://discord.com" target="_blank"
+<p align="center"> <a href="https://discord.com" target="_blank"> <img src="https://i.pinimg.com/736x/d9/b9/75/d9b9753441ba8914e56fd2d18789aa2e.jpg" width="150" height="150"/><br><br>
 </div>
 <br>
 <div>
@@ -43,10 +42,9 @@
 </div>
     </br>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/Imaguy0/Imaguy0/master/profile.svg" width="400" height="400">
+    
 </div>
 <hr>
 </div>
 </div>
 </body>
-``
