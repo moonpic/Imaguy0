@@ -24,11 +24,13 @@
 <div>
 <img src="https://media2.giphy.com/media/7hW7hXXri33NK/giphy.gif" align="right">
 <h2 align="center">Knowledge ᕦ(ò_óˇ)ᕤ</h2>
+    <h3>
+        Actually Learning Html Css Java And Python
+    </h3>
 <p>
 </div>
 <div>
-<p align="center"> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://www.python.org/static/community_logos/python-logo.png" width="100" height="28" /><br><br>
-</p>
+
 <br>
 <h2 align="center">Contact me (MoonPic#6526) (>人<)</h2>
 <br>
